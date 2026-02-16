@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "NO EXCUSE",
+  "base_artist": "B'z",
+  "createdAt": "2026-02-16T13:38:12.604732Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "No Excuse - Demo",
+      "artist": "Pet Shop Boys",
+      "has_synced": false,
+      "path": "select/01_No_Excuse_-_Demo_Pet_Shop_Boys.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "No Excuse (Demo)",
+      "artist": "Pet Shop Boys",
+      "has_synced": false,
+      "path": "select/02_No_Excuse_(Demo)_Pet_Shop_Boys.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "No Excuse",
+      "artist": "Jacques Greene",
+      "has_synced": false,
+      "path": "select/03_No_Excuse_Jacques_Greene.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "No Excuse (Fort Romeau Remix)",
+      "artist": "Jacques Greene",
+      "has_synced": false,
+      "path": "select/04_No_Excuse_(Fort_Romeau_Remix)_Jacques_Greene.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "No Excuse (Kit Grill Remix)",
+      "artist": "Jacques Greene",
+      "has_synced": false,
+      "path": "select/05_No_Excuse_(Kit_Grill_Remix)_Jacques_Greene.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "No Excuse (Yung Gud Remix)",
+      "artist": "Jacques Greene",
+      "has_synced": false,
+      "path": "select/06_No_Excuse_(Yung_Gud_Remix)_Jacques_Greene.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Honesty Is No Excuse",
+      "artist": "The Both",
+      "has_synced": false,
+      "path": "select/07_Honesty_Is_No_Excuse_The_Both.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Honesty Is No Excuse",
+      "artist": "The Both Aimee Mann",
+      "has_synced": false,
+      "path": "select/08_Honesty_Is_No_Excuse_The_Both_Aimee_Mann.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Honesty Is No Excuse",
+      "artist": "Thin Lizzy",
+      "has_synced": false,
+      "path": "select/09_Honesty_Is_No_Excuse_Thin_Lizzy.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Honesty Is No Excuse - 1977 Overdubbed & Remixed Version",
+      "artist": "Thin Lizzy",
+      "has_synced": false,
+      "path": "select/10_Honesty_Is_No_Excuse_-_1977_Overdubbed_&_Remixed_Version_Thin_Lizzy.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "No Excuse (demo)",
+      "artist": "Pet Shop Boys",
+      "has_synced": true,
+      "path": "select/11_No_Excuse_(demo)_Pet_Shop_Boys.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "No Excuse",
+      "artist": "Useless ID",
+      "has_synced": false,
+      "path": "select/12_No_Excuse_Useless_ID.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Shut Up, There Is No Excuse to Live",
+      "artist": "Carpathian Forest",
+      "has_synced": true,
+      "path": "select/13_Shut_Up,_There_Is_No_Excuse_to_Live_Carpathian_Forest.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Love Is No Excuse",
+      "artist": "Jim Reeves",
+      "has_synced": false,
+      "path": "select/14_Love_Is_No_Excuse_Jim_Reeves.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "No Excuse (1​:​18​-​3​:​20)",
+      "artist": "Psallos",
+      "has_synced": true,
+      "path": "select/15_No_Excuse_(1​_​18​-​3​_​20)_Psallos.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "No Excuse",
+      "artist": "Kurt Nilsen",
+      "has_synced": true,
+      "path": "select/16_No_Excuse_Kurt_Nilsen.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Honesty Is No Excuse",
+      "artist": "Cass McCombs",
+      "has_synced": true,
+      "path": "select/17_Honesty_Is_No_Excuse_Cass_McCombs.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Love Is No Excuse",
+      "artist": "Connie Smith",
+      "has_synced": false,
+      "path": "select/18_Love_Is_No_Excuse_Connie_Smith.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NO EXCUSE",
+      "artist": "B'z",
+      "has_synced": false,
+      "path": "select/pl_01_NO_EXCUSE_B'z.txt"
+    }
+  ]
+}
